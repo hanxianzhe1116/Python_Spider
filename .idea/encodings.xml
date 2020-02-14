@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spider_lianjia/lianjia_lanzhou.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spider_lianjia/lj.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spider_lianjia/lj1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spider_traffic/transformData.csv" charset="GBK" />
+  </component>
+</project>
