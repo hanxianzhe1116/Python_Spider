@@ -126,7 +126,7 @@ def get_all_year_weather(url, area, year):
 if __name__ == '__main__':
     # 获得区域列表
     area_list = start_get()
-
+    print(area_list)
     # # ===================================================part1========================================================
     # # 开始爬取2017-2019各区域全年平均、最高低天气信息
     # failed_url_all_year_list = []
